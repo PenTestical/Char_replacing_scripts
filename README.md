@@ -8,7 +8,7 @@ Example of right-double quotation marks:
 ![image](https://user-images.githubusercontent.com/57206134/111876530-72936600-899f-11eb-9303-69b626f2314c.png)
 
 ## Installation && Usage 
-Save the code into a text-file (for example, file.txt). 
+Save your code with the quotation marks you want to replace into a text-file (for example, file.txt). 
 
 Download the python script, make it executable and run it:
 
