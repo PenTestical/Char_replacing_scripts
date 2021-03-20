@@ -12,7 +12,7 @@ Save the code into a text-file (for example, file.txt).
 
 Download file, make it executable and run it:
 
-```git clone https://github.com/PenTestical/Char_replacing_scripts && cd Char_replacing_scripts && chmod +x replaceQuotes.py``` 
+```sudo git clone https://github.com/PenTestical/Char_replacing_scripts && cd Char_replacing_scripts && chmod +x replaceQuotes.py``` 
 
 ```python3 replaceQuotes.py``` 
 
