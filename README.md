@@ -1,6 +1,20 @@
-# Replace different quotation marks by the default (") one
+# What does this script do? Why need to replace quotation marks?
 
-Sometimes as hacker, you need to copy+paste exploitation codes from different pages. Not all of them handle the quotation marks correctly. Web pages like medium.com have right-double quotation marks (“) or other quotation marks (like left-double, double-low-quoation marks). This simple scripts helps you to easily convert those into default (") quotation marks.
+# Issue description
+Sometimes you need to copy+paste code fragments from different pages. Not all of them handle the quotation marks correctly. Web pages like medium.com for example have right-double quotation marks (“) or other quotation marks (like left-double, double-low-quoation marks). This simple scripts helps you to easily convert those into default (") quotation marks.
+
+Example of right-double quotation marks:
 
 ![image](https://user-images.githubusercontent.com/57206134/111876530-72936600-899f-11eb-9303-69b626f2314c.png)
+
+# Usage of the script
+Save the code into a text-file (for example, file.txt). 
+
+Download file, make it executable and run it:
+
+```git clone https://github.com/PenTestical/Char_replacing_scripts``` 
+
+```cd Char_replacing_scripts```
+
+```python3 replaceQuotes.py``` 
 
