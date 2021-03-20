@@ -20,5 +20,5 @@ Enter the name of the text file with the quotation marks you want to replace.
 
 ## Demo 
 
-![gif](https://gifs.com/gif/E8N69m)
+![gif](https://j.gifs.com/E8N69m.gif)
 
