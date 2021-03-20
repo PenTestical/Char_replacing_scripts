@@ -27,12 +27,6 @@ try:
     print(f"\n{Fore.GREEN}Finished! All Characters are replaced. Enjoy your file: ",fileName)
     f.close()
 
-except OSError:
-    print("Could not open the file! Exiting the system!\n")
-    f.close()
-    sys.exit()
-
 except:
-    print("Something went wrong..\n")
-    f.close()
+    print("Could not open the file! Something went wrong.\n")
     sys.exit()
