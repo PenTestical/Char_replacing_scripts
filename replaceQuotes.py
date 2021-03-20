@@ -21,6 +21,7 @@ try:
     filedata=filedata.replace('\u201d','"')
     filedata=filedata.replace('\u201e','"')
     filedata=filedata.replace('\u201c','"')
+    filedata=filedata.replace('\u2033','"')
     with open(fileName,'w',encoding="utf-8") as f:
         f.write(filedata)
     print(f"\n{Fore.GREEN}Finished! All Characters are replaced. Enjoy your file: ",fileName)
