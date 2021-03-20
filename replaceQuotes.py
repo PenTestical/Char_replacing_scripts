@@ -24,7 +24,7 @@ try:
     filedata=filedata.replace('\u2033','"')
     with open(fileName,'w',encoding="utf-8") as f:
         f.write(filedata)
-    print(f"\n{Fore.GREEN}Finished! All Characters are replaced. Enjoy your file: ",fileName)
+    print(f"\n{Fore.GREEN}Finished! All Characters are replaced. Enjoy your file:",fileName)
     f.close()
 
 except:
